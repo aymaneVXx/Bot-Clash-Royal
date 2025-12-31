@@ -1,0 +1,19 @@
+path: ./datasets
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: archere
+  1: bat
+  2: chevalier
+  3: gargouille
+  4: geant
+  5: gobelin
+  6: gobelin_lances
+  7: mini_PEKKA
+  8: mousquetaire
+  9: squelette
+  10: valkyrie
+  11: zappy
