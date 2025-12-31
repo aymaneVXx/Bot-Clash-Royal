@@ -1,0 +1,12 @@
+train: ./dataset/train/images
+val: ./dataset/valid/images
+test: ./dataset/test/images
+
+path: ./datasets
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 12
+names: ['archere', 'bat', 'chevalier', 'gargouille', 'geant', 'gobelin', 'gobelin_lances', 'mini_PEKKA',  'mousquetaire',  'squelette', 'valkyrie', 'zappy']
